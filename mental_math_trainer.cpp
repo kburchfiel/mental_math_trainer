@@ -34,8 +34,9 @@ int main()
     int trials_count;
     int reveal_time;
 
-    cout << "Welcome to the mental math trainer! This program allows you \
-to practice multiplying 1-2 digit numbers by other 1-2 digit numbers.\n\n\
+    cout << "Welcome to the Mental Math Trainer! This program allows you \
+to practice multiplying 1-2 digit numbers by other 1-2 digit numbers. Try \
+to complete these problems in your head if you can.\n\n\
 Hint: to complete problems involving 2-digit numbers in your head, try \
 dividing the problem up into a series of single-digit multiplication problems. \
 For instance, to multiply 74 by 8, first multiply 70 by 8 to get 560, then \
